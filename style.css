@@ -12,3 +12,23 @@ div {
   border: 1px solid black;
   float: left;
 }
+
+.blue {
+  background-color: aqua;
+}
+
+.yellow {
+  background-color: chartreuse;
+}
+
+.orange {
+  background-color: darkorange;
+}
+
+.green {
+  background-color: greenyellow;
+}
+
+.pink {
+  background-color: hotpink;
+}
